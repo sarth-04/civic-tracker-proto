@@ -132,17 +132,6 @@ GET http://127.0.0.1:5000/representatives?zip=11354
 
 ---
 
-## 🎥 Demo Video
-
-* Record a **short video** showing:
-
-  1. Running the API
-  2. Sample ZIP code query
-  3. JSON Output
-* Upload to **Google Drive** & share the **link** here.
-
----
-
 ## 🛠️ Tech Stack
 
 * **Python** (Flask, Requests, BeautifulSoup)
