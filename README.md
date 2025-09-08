@@ -151,15 +151,6 @@ GET http://127.0.0.1:5000/representatives?zip=11354
 
 ---
 
-## 📅 Submission Notes
-
-* **Deadline:** Sept 8, 11:59 PM IST
-* Submit both:
-
-  1. **GitHub Repo Link**
-  2. **Google Drive Video Link**
-
----
 
 ## 👨‍💻 Author
 
