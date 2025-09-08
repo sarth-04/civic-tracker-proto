@@ -1,4 +1,4 @@
-Got it — here’s the complete `README.md` code so you can directly copy-paste into your repository:
+
 
 ```markdown
 # 🏛️ Civic Tracker API – U.S. Representatives by ZIP Code
