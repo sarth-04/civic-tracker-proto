@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # 🏛️ Civic Tracker API – U.S. Representatives by ZIP Code
 
 This project is a **prototype API** that returns political representative details for a given **U.S. ZIP code**.  
