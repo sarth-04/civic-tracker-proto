@@ -151,12 +151,4 @@ GET http://127.0.0.1:5000/representatives?zip=11354
 Email: [sarthakingle04@gmail.com](mailto:sarthakingle04@gmail.com)
 GitHub: [@sarth-04](https://github.com/sarth-04)
 
----
 
-
-```
-
----
-
-
-```
